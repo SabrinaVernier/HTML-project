@@ -1,0 +1,5 @@
+/*  Import de mes feuilles de style :  */
+
+@import "./global.css";
+@import "./phone.css" (max-width: 600px);
+@import "./tablet.css" (min-width: 600px) and (max-width: 1200px);
